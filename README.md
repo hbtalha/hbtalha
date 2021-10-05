@@ -1,30 +1,43 @@
-## Helder Batalha
-
 ```c++
-const  tiredOfLearning = false;
+const bool tiredOfLearning = false;
 ```
 
+📚 I’m currently learning
+- Web-Development(front/back-end)
+- Android Development (Android Studio - Java)
 
+ <div>
+  <a href="https://github.com/hbtalha">
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=hbtalha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hbtalha&layout=compact&langs_count=7&theme=dracula"/>
+   
+   <h4>🔥 Streak Stats</h4>
+   <p>
+     <img src="http://github-readme-streak-stats.herokuapp.com?user=hbtalha&layout=compact&theme=dracula" alt="hbtalha" />
+   </p>
 
-- 📚 I’m currently learning   **Web-Development(front/back-end)**
-
-- 💬 Ask me about **C++ / Qt C++**
-
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/helder-batalha" target="blank"><img align="center" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="helder-batalha" height="30" width="40" /></a>
-</p>
-
-
-
-<h3 align="left">Languages:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>     </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-
+   <h4>📊 Stats</h4>
+   <p>
+   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Keiko Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=hbtalha&layout=compact&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+   </p>
+   
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">    
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg">
+</div>
   
-  
- <h3 align="left">Tools:</h3>
-<a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hbtalha&show_icons=true&locale=en&layout=compact" alt="hbtalha" /></p>     <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hbtalha&show_icons=true&locale=en" alt="hbtalha" /></p>
+  ##
+ 
+<div>   
+  <a href = "mailto:helderbatalha3@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/helder-batalha/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+<!--   ![Snake animation](https://github.com/hbtalha/hbtalha/blob/output/github-contribution-grid-snake.svg) -->
+ 
+</div>
