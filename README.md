@@ -28,6 +28,8 @@ const bool tiredOfLearning = false;
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> 
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg">
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Python_and_Qt.svg">
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://doc.qt.io/qtforpython-6/_static/pysidelogo.png">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
